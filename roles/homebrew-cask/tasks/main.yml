@@ -1,0 +1,8 @@
+---
+- name: homebrew-cask install
+  homebrew_cask:
+    name: "{{ item.name }}"
+    state: "{{ item.state }}"
+  with_items: "{{ items }}"
+  tags:
+    - homebrew-cask
