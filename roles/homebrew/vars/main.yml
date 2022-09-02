@@ -1,0 +1,4 @@
+---
+items:
+  - { name: ansible, state: installed }
+  - { name: jq, state: installed }
