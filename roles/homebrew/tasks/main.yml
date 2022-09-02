@@ -1,0 +1,8 @@
+---
+- name: homebrew install
+  homebrew:
+    name: "{{ item.name }}"
+    state: "{{ item.state }}"
+  with_items: "{{ items }}"
+  tags:
+    - homebrew
