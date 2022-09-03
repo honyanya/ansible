@@ -1,0 +1,6 @@
+---
+- name: visual studio code extentions install
+  shell: code --install-extension {{ item }}
+  with_items: "{{ items }}"
+  tags:
+    - vscode-extentions
