@@ -1,0 +1,6 @@
+---
+- name: github repository clone by ghq
+  shell: ghq get git@github.com:{{ item }}.git
+  with_items: "{{ items }}"
+  tags:
+    - ghq-github

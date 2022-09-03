@@ -1,0 +1,5 @@
+---
+## NOTE: Handling of private repositories should be considered separately.
+items:
+  - octocat/Hello-World
+  - honyanya/ansible
