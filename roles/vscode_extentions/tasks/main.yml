@@ -3,4 +3,4 @@
   shell: code --install-extension {{ item }}
   with_items: "{{ items }}"
   tags:
-    - vscode-extentions
+    - vscode_extentions

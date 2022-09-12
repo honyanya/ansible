@@ -5,4 +5,4 @@
     state: "{{ item.state }}"
   with_items: "{{ items }}"
   tags:
-    - homebrew-cask
+    - homebrew_cask

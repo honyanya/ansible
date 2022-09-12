@@ -6,6 +6,6 @@
   gather_facts: false
   roles:
     - homebrew
-    - homebrew-cask
-    - vscode-extentions
-    - ghq-github
+    - homebrew_cask
+    - vscode_extentions
+    - ghq_github

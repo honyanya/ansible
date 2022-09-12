@@ -3,4 +3,4 @@
   shell: ghq get git@github.com:{{ item }}.git
   with_items: "{{ items }}"
   tags:
-    - ghq-github
+    - ghq_github
