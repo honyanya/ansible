@@ -2,8 +2,8 @@
 - name: mac setup
   hosts: localhost
   connection: local
-  become: no
-  gather_facts: no
+  become: false
+  gather_facts: false
   roles:
     - homebrew
     - homebrew-cask
