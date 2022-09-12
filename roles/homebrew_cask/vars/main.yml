@@ -1,3 +1,5 @@
 ---
 items:
+  - { name: flux, state: installed }
+  - { name: font-hack-nerd-font, state: installed }
   - { name: mi, state: installed }
