@@ -1,0 +1,8 @@
+---
+parseable: true
+quiet: true
+use_default_rules: true
+verbosity: 1
+exclude_paths:
+  - ./roles/ghq_github/
+  - ./roles/vscode_extentions/
