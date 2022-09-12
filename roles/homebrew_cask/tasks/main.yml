@@ -1,5 +1,5 @@
 ---
-- name: homebrew-cask install
+- name: Install homebrew-cask
   homebrew_cask:
     name: "{{ item.name }}"
     state: "{{ item.state }}"

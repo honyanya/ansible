@@ -1,5 +1,5 @@
 ---
-- name: github repository clone by ghq
+- name: GitHub repository clone by ghq
   shell: ghq get git@github.com:{{ item }}.git
   with_items: "{{ items }}"
   tags:

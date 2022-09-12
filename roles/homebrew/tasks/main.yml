@@ -1,5 +1,5 @@
 ---
-- name: homebrew install
+- name: Install homebrew
   homebrew:
     name: "{{ item.name }}"
     state: "{{ item.state }}"
