@@ -4,5 +4,6 @@ quiet: true
 use_default_rules: true
 verbosity: 1
 exclude_paths:
+  - .github/
   - ./roles/ghq_github/
   - ./roles/vscode_extentions/
