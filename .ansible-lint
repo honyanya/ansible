@@ -7,3 +7,4 @@ exclude_paths:
   - .github/
   - ./roles/ghq_github/
   - ./roles/vscode_extentions/
+  - lefthook.yml
