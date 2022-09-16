@@ -1,0 +1,6 @@
+---
+pre-commit:
+  parallel: true
+  commands:
+    ansible-lint:
+      run: ansible-lint
