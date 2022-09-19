@@ -5,6 +5,7 @@ items:
   - { name: docker, state: installed }
   - { name: docker-compose, state: installed }
   - { name: jq, state: installed }
+  - { name: lefthook, state: installed }
   - { name: marp-cli, state: installed }
   - { name: peco, state: installed }
   - { name: tree, state: installed }
