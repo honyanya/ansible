@@ -1,6 +1,6 @@
 ---
 items:
-  - { name: kindle, state: installed }
-  - { name: flux, state: installed }
-  - { name: font-hack-nerd-font, state: installed }
-  - { name: mi, state: installed }
+  - { name: kindle }
+  - { name: flux }
+  - { name: font-hack-nerd-font }
+  - { name: mi }
