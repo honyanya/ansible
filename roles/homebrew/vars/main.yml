@@ -7,6 +7,7 @@ items:
   - { name: jq }
   - { name: lefthook }
   - { name: marp-cli }
+  - { name: nkf }
   - { name: peco }
   - { name: tree }
   - { name: zsh-completion }
