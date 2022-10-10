@@ -1,5 +1,6 @@
 ---
 items:
+  - { name: android-file-transfer }
   - { name: kindle }
   - { name: flux }
   - { name: font-hack-nerd-font }
