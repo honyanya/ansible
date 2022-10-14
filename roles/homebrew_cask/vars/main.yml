@@ -1,6 +1,7 @@
 ---
 items:
   - { name: android-file-transfer }
+  - { name: clipy }
   - { name: kindle }
   - { name: flux }
   - { name: font-hack-nerd-font }
