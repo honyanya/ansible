@@ -1,6 +1,7 @@
 ---
 items:
   - { name: android-file-transfer }
+  - { name: android-platform-tools }
   - { name: clipy }
   - { name: kindle }
   - { name: flux }
