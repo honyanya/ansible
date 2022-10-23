@@ -1,6 +1,5 @@
 ---
 items:
-  - { name: android-platform-tools }
   - { name: ansible }
   - { name: colima }
   - { name: docker }
