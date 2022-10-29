@@ -7,3 +7,4 @@ items:
   - { name: flux }
   - { name: font-hack-nerd-font }
   - { name: mi }
+  - { name: visual-studio-code }
