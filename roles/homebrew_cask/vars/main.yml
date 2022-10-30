@@ -3,8 +3,8 @@ items:
   - { name: android-file-transfer }
   - { name: android-platform-tools }
   - { name: clipy }
-  - { name: kindle }
   - { name: flux }
   - { name: font-hack-nerd-font }
+  - { name: kindle }
   - { name: mi }
   - { name: visual-studio-code }
