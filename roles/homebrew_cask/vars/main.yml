@@ -7,6 +7,7 @@ items:
   - { name: flux }
   - { name: font-hack-nerd-font }
   - { name: google-chrome }
+  - { name: google-japanese-ime }
   - { name: kindle }
   - { name: mi }
   - { name: visual-studio-code }
