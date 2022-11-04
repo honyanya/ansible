@@ -5,6 +5,7 @@ items:
   - { name: docker }
   - { name: docker-compose }
   - { name: ghq }
+  - { name: git }
   - { name: harelba/q/q }
   - { name: jq }
   - { name: lefthook }
