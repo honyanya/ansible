@@ -8,3 +8,5 @@ exclude_paths:
   - ./roles/ghq_github/
   - ./roles/vscode_extentions/
   - lefthook.yml
+skip_list:
+  - 'fqcn'
