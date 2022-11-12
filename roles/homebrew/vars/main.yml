@@ -13,5 +13,6 @@ items:
   - { name: nkf }
   - { name: peco }
   - { name: tree }
+  - { name: wget }
   - { name: xz }
   - { name: zsh-completion }
