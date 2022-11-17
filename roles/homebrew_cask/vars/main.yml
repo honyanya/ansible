@@ -11,4 +11,5 @@ items:
   - { name: iterm2 }
   - { name: kindle }
   - { name: mi }
+  - { name: microsoft-remote-desktop }
   - { name: visual-studio-code }
