@@ -3,6 +3,7 @@ items:
   - { name: android-file-transfer }
   - { name: android-platform-tools }
   - { name: clipy }
+  - { name: finch }
   - { name: firefox }
   - { name: flux }
   - { name: font-hack-nerd-font }
