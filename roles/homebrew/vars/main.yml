@@ -4,6 +4,7 @@ items:
   - { name: colima }
   - { name: docker }
   - { name: docker-compose }
+  - { name: elixir }
   - { name: ghq }
   - { name: git }
   - { name: harelba/q/q }
