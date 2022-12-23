@@ -2,6 +2,7 @@
 items:
   - { name: ansible }
   - { name: colima }
+  - { name: colordiff }
   - { name: docker }
   - { name: docker-compose }
   - { name: elixir }
