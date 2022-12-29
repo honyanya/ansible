@@ -9,6 +9,7 @@ items:
   - { name: ghq }
   - { name: git }
   - { name: harelba/q/q }
+  - { name: htop }
   - { name: jq }
   - { name: lefthook }
   - { name: marp-cli }
