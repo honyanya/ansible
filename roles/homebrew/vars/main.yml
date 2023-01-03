@@ -18,4 +18,5 @@ items:
   - { name: tree }
   - { name: wget }
   - { name: xz }
+  - { name: yq }
   - { name: zsh-completion }
