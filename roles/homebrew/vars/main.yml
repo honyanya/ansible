@@ -15,6 +15,7 @@ items:
   - { name: marp-cli }
   - { name: nkf }
   - { name: peco }
+  - { name: tmux }
   - { name: tree }
   - { name: wget }
   - { name: xz }
