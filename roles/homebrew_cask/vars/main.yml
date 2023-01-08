@@ -13,4 +13,5 @@ items:
   - { name: kindle }
   - { name: mi }
   - { name: microsoft-remote-desktop }
+  - { name: ngrok }
   - { name: visual-studio-code }
