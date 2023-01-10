@@ -16,6 +16,7 @@ items:
   - { name: marp-cli }
   - { name: nkf }
   - { name: peco }
+  - { name: ripgrep }
   - { name: tmux }
   - { name: tree }
   - { name: wget }
