@@ -9,6 +9,7 @@ items:
   - { name: gh }
   - { name: ghq }
   - { name: git }
+  - { name: git-secrets }
   - { name: harelba/q/q }
   - { name: htop }
   - { name: jq }
