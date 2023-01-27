@@ -1,6 +1,7 @@
 ---
 items:
   - { name: ansible }
+  - { name: bat }
   - { name: colima }
   - { name: colordiff }
   - { name: docker }
