@@ -15,6 +15,7 @@ items:
   - { name: harelba/q/q }
   - { name: htop }
   - { name: jq }
+  - { name: jsonnet }
   - { name: lefthook }
   - { name: marp-cli }
   - { name: nkf }
