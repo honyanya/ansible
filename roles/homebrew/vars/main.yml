@@ -17,6 +17,7 @@ items:
   - { name: jq }
   - { name: jsonnet }
   - { name: lefthook }
+  - { name: lsd }
   - { name: marp-cli }
   - { name: nkf }
   - { name: peco }
