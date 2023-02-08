@@ -3,6 +3,7 @@ items:
   - dbaeumer.vscode-eslint
   - esbenp.prettier-vscode
   - marp-team.marp-vscode
+  - mosapride.zenkaku
   - ms-azuretools.vscode-docker
   - ms-vscode-remote.remote-containers
   - ms-vscode-remote.remote-ssh
