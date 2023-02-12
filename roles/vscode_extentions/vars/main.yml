@@ -1,7 +1,8 @@
 ---
 items:
   - dbaeumer.vscode-eslint
-  - esbenp.prettier-vscode
+  - esbenp.prettier-
+  - JakeBecker.elixir-ls
   - marp-team.marp-vscode
   - mosapride.zenkaku
   - ms-azuretools.vscode-docker
