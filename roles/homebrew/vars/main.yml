@@ -4,6 +4,7 @@ items:
   - { name: bat }
   - { name: colima }
   - { name: colordiff }
+  - { name: csview }
   - { name: docker }
   - { name: docker-compose }
   - { name: elixir }
