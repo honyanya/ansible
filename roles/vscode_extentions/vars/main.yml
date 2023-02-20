@@ -4,6 +4,7 @@ items:
   - dbaeumer.vscode-eslint
   - esbenp.prettier-vscode
   - JakeBecker.elixir-ls
+  - janisdd.vscode-edit-csv
   - marp-team.marp-vscode
   - mosapride.zenkaku
   - ms-azuretools.vscode-docker
