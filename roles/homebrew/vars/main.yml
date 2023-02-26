@@ -21,6 +21,7 @@ items:
   - { name: lefthook }
   - { name: lsd }
   - { name: marp-cli }
+  - { name: mysql-client }
   - { name: nkf }
   - { name: peco }
   - { name: ripgrep }
