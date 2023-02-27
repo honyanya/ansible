@@ -15,4 +15,5 @@ items:
   - ms-vscode-remote.vscode-remote-extensionpack
   - oderwat.indent-rainbow
   - rvest.vs-code-prettier-eslint
+  - scala-lang.scala
   - vscode-icons-team.vscode-icons
