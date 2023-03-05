@@ -3,6 +3,7 @@ items:
   - aaron-bond.better-comments
   - dbaeumer.vscode-eslint
   - esbenp.prettier-vscode
+  - fnando.linter
   - JakeBecker.elixir-ls
   - janisdd.vscode-edit-csv
   - marp-team.marp-vscode
