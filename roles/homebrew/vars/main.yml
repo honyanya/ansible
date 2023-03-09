@@ -25,6 +25,7 @@ items:
   - { name: nkf }
   - { name: peco }
   - { name: ripgrep }
+  - { name: tig }
   - { name: tmux }
   - { name: tokei }
   - { name: tree }
