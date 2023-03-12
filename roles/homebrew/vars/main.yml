@@ -5,6 +5,7 @@ items:
   - { name: colima }
   - { name: colordiff }
   - { name: csview }
+  - { name: delta }
   - { name: docker }
   - { name: docker-compose }
   - { name: elixir }
