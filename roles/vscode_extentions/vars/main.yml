@@ -1,6 +1,7 @@
 ---
 items:
   - aaron-bond.better-comments
+  - davidhouchin.whitespace-plus
   - dariofuzinato.vue-peek
   - dbaeumer.vscode-eslint
   - esbenp.prettier-vscode
