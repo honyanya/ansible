@@ -17,6 +17,7 @@ items:
   - ms-vscode-remote.remote-wsl
   - ms-vscode-remote.vscode-remote-extensionpack
   - oderwat.indent-rainbow
+  - redhat.java
   - rvest.vs-code-prettier-eslint
   - scala-lang.scala
   - scalameta.metals
