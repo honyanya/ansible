@@ -25,6 +25,7 @@ items:
   - { name: mysql-client }
   - { name: nkf }
   - { name: peco }
+  - { name: pipx }
   - { name: ripgrep }
   - { name: tig }
   - { name: tmux }
