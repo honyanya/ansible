@@ -21,6 +21,7 @@ items:
   - rvest.vs-code-prettier-eslint
   - scala-lang.scala
   - scalameta.metals
+  - shardulm94.trailing-spaces
   - vscjava.vscode-java-debug
   - vscjava.vscode-java-dependency
   - vscjava.vscode-java-pack
