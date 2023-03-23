@@ -28,6 +28,7 @@ items:
   - { name: peco }
   - { name: pipx }
   - { name: ripgrep }
+  - { name: sd }
   - { name: tig }
   - { name: tmux }
   - { name: tokei }
