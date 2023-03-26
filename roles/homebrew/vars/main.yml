@@ -27,6 +27,7 @@ items:
   - { name: nkf }
   - { name: peco }
   - { name: pipx }
+  - { name: procs }
   - { name: pueue }
   - { name: ripgrep }
   - { name: sd }
