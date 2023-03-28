@@ -16,6 +16,7 @@ items:
   - { name: git-filter-repo }
   - { name: git-secrets }
   - { name: glab }
+  - { name: grex }
   - { name: harelba/q/q }
   - { name: htop }
   - { name: jq }
