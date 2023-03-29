@@ -1,5 +1,6 @@
 ---
 items:
+  - { name: angle-grinder }
   - { name: ansible }
   - { name: bat }
   - { name: colima }
