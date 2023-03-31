@@ -33,6 +33,7 @@ items:
   - { name: pueue }
   - { name: ripgrep }
   - { name: sd }
+  - { name: silicon }
   - { name: tig }
   - { name: tmux }
   - { name: tokei }
