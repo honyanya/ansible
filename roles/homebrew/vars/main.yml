@@ -2,6 +2,7 @@
 items:
   - { name: angle-grinder }
   - { name: ansible }
+  - { name: awscli }
   - { name: bat }
   - { name: colima }
   - { name: colordiff }
