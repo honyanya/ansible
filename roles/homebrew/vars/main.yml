@@ -39,6 +39,7 @@ items:
   - { name: tmux }
   - { name: tokei }
   - { name: tree }
+  - { name: watch }
   - { name: wget }
   - { name: xz }
   - { name: yq }
