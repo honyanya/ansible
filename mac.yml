@@ -4,6 +4,8 @@
   connection: local
   become: false
   gather_facts: false
+  collections:
+    - community.general
   roles:
     - homebrew
     - homebrew_cask

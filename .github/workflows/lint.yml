@@ -15,5 +15,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: Install community.general
+        run: ansible-galaxy collection install community.general
       - name: Run ansible-lint
         uses: ansible/ansible-lint-action@main
