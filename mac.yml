@@ -1,9 +1,11 @@
 ---
-- name: mac setup
+- name: Setup macOS
   hosts: localhost
   connection: local
   become: false
   gather_facts: false
+  collections:
+    - community.general
   roles:
     - homebrew
     - homebrew_cask

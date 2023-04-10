@@ -1,4 +1,5 @@
 ---
+# yamllint disable rule:truthy
 name: Ansible Lint
 on:
   push:
@@ -15,4 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run ansible-lint
-        uses: ansible-community/ansible-lint-action@main
+        run: |
+          pip3 install ansible-lint
+          ansible-galaxy collection install community.general
+          ansible-lint
