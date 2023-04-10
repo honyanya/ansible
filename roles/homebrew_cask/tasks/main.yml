@@ -1,6 +1,6 @@
 ---
 - name: Install homebrew-cask
-  community.general.homebrew_cask:
+  homebrew_cask:
     name: "{{ item.name }}"
     state: installed
   with_items: "{{ items }}"

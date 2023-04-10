@@ -1,6 +1,6 @@
 ---
 - name: Install homebrew
-  community.general.homebrew:
+  homebrew:
     name: "{{ item.name }}"
     state: installed
   with_items: "{{ items }}"
