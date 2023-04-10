@@ -18,4 +18,5 @@ jobs:
       - name: Run ansible-lint
         run: |
           pip3 install ansible-lint
+          ansible-galaxy collection install community.general
           ansible-lint
