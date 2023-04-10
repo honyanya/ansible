@@ -15,7 +15,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Install the community general collection from Ansible Galaxy
         run: ansible-galaxy collection install community.general
       - name: Run ansible-lint
         uses: ansible/ansible-lint-action@main
+        with:
+          path: mac.yml
+          roles-path: ./roles:../roles:/etc/ansible/roles
