@@ -4,6 +4,7 @@ items:
   - davidhouchin.whitespace-plus
   - dariofuzinato.vue-peek
   - dbaeumer.vscode-eslint
+  - eamodio.gitlens
   - esbenp.prettier-vscode
   - fnando.linter
   - JakeBecker.elixir-ls
