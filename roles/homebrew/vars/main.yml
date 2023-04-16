@@ -44,4 +44,5 @@ items:
   - { name: xsv }
   - { name: xz }
   - { name: yq }
+  - { name: zoxide }
   - { name: zsh-completion }
