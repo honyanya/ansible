@@ -46,3 +46,4 @@ items:
   - { name: yq }
   - { name: zoxide }
   - { name: zsh-completion }
+  - { name: zstd }
