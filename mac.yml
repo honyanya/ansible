@@ -9,5 +9,5 @@
   roles:
     - homebrew
     - homebrew_cask
-    - vscode_extentions
+    - vscode_extensions
     - ghq_github

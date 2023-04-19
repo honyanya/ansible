@@ -6,7 +6,7 @@ verbosity: 1
 exclude_paths:
   - .github/
   - ./roles/ghq_github/
-  - ./roles/vscode_extentions/
+  - ./roles/vscode_extensions/
   - lefthook.yml
 skip_list:
   - 'fqcn'
