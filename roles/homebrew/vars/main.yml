@@ -35,6 +35,7 @@ items:
   - { name: ripgrep }
   - { name: sd }
   - { name: silicon }
+  - { name: sdkman/tap/sdkman-cli }
   - { name: tig }
   - { name: tmux }
   - { name: tokei }
