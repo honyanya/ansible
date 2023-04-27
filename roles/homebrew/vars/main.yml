@@ -48,5 +48,6 @@ items:
   - { name: xz }
   - { name: yq }
   - { name: zoxide }
+  - { name: zsh-autosuggestions }
   - { name: zsh-completion }
   - { name: zstd }
