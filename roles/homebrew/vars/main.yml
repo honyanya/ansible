@@ -44,6 +44,7 @@ items:
   - { name: Virtuslab/scala-cli/scala-cli }
   - { name: watch }
   - { name: wget }
+  - { name: xh }
   - { name: xsv }
   - { name: xz }
   - { name: yq }
