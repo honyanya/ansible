@@ -1,6 +1,7 @@
 ---
 items:
   - aaron-bond.better-comments
+  - christian-kohler.path-intellisense
   - davidhouchin.whitespace-plus
   - dariofuzinato.vue-peek
   - dbaeumer.vscode-eslint
