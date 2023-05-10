@@ -8,6 +8,7 @@ items:
   - eamodio.gitlens
   - esbenp.prettier-vscode
   - fnando.linter
+  - IBM.output-colorizer
   - ionutvmi.path-autocomplete
   - JakeBecker.elixir-ls
   - janisdd.vscode-edit-csv
