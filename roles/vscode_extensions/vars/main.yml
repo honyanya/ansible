@@ -25,6 +25,7 @@ items:
   - oderwat.indent-rainbow
   - redhat.java
   - rvest.vs-code-prettier-eslint
+  - samuelcolvin.jinjahtml
   - scala-lang.scala
   - scalameta.metals
   - shardulm94.trailing-spaces
