@@ -12,6 +12,7 @@ items:
   - ionutvmi.path-autocomplete
   - JakeBecker.elixir-ls
   - janisdd.vscode-edit-csv
+  - johnpapa.vscode-peacock
   - marp-team.marp-vscode
   - mechatroner.rainbow-csv
   - mosapride.zenkaku
