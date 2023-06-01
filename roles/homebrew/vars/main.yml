@@ -29,6 +29,7 @@ items:
   - { name: marp-cli }
   - { name: mysql-client }
   - { name: nkf }
+  - { name: neovim }
   - { name: peco }
   - { name: pipx }
   - { name: procs }
