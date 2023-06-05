@@ -10,6 +10,7 @@ items:
   - { name: delta }
   - { name: docker }
   - { name: docker-compose }
+  - { name: diff-so-fancy }
   - { name: elixir }
   - { name: fd }
   - { name: ffmpeg }
