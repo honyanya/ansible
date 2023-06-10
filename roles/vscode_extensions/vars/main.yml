@@ -28,6 +28,7 @@ items:
   - nemesv.copy-file-name
   - noxiz.jinja-snippets
   - oderwat.indent-rainbow
+  - pnp.polacode
   - redhat.java
   - rvest.vs-code-prettier-eslint
   - samuelcolvin.jinjahtml
