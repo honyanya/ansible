@@ -29,6 +29,7 @@ items:
   - { name: lefthook }
   - { name: lsd }
   - { name: marp-cli }
+  - { name: midnight-commander }
   - { name: mysql-client }
   - { name: nkf }
   - { name: neovim }
