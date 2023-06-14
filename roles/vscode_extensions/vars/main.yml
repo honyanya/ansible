@@ -11,6 +11,7 @@ items:
   - esbenp.prettier-vscode
   - fnando.linter
   - formulahendry.code-runner
+  - Gruntfuggly.todo-tree
   - IBM.output-colorizer
   - ionutvmi.path-autocomplete
   - JakeBecker.elixir-ls
