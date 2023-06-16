@@ -44,5 +44,6 @@ items:
   - vscjava.vscode-java-test
   - vscjava.vscode-maven
   - vscode-icons-team.vscode-icons
+  - vsls-contrib.codetour
   - wayou.vscode-todo-highlight
   - yzhang.markdown-all-in-one
