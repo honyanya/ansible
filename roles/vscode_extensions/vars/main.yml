@@ -17,6 +17,7 @@ items:
   - JakeBecker.elixir-ls
   - janisdd.vscode-edit-csv
   - johnpapa.vscode-peacock
+  - kamikillerto.vscode-colorize
   - marp-team.marp-vscode
   - mechatroner.rainbow-csv
   - mosapride.zenkaku
