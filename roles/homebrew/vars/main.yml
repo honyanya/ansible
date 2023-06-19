@@ -12,6 +12,7 @@ items:
   - { name: docker }
   - { name: docker-compose }
   - { name: diff-so-fancy }
+  - { name: direnv }
   - { name: elixir }
   - { name: fd }
   - { name: ffmpeg }
