@@ -12,6 +12,7 @@ items:
   - { name: docker }
   - { name: docker-compose }
   - { name: diff-so-fancy }
+  - { name: direnv }
   - { name: elixir }
   - { name: fd }
   - { name: ffmpeg }
@@ -29,6 +30,7 @@ items:
   - { name: lefthook }
   - { name: lsd }
   - { name: marp-cli }
+  - { name: mdfind }
   - { name: midnight-commander }
   - { name: mysql-client }
   - { name: nkf }
