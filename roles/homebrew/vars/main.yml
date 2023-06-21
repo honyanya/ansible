@@ -30,7 +30,6 @@ items:
   - { name: lefthook }
   - { name: lsd }
   - { name: marp-cli }
-  - { name: mdfind }
   - { name: midnight-commander }
   - { name: mysql-client }
   - { name: nkf }
@@ -39,6 +38,7 @@ items:
   - { name: pipx }
   - { name: procs }
   - { name: pueue }
+  - { name: rdfind }
   - { name: ripgrep }
   - { name: sd }
   - { name: silicon }
