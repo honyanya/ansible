@@ -38,6 +38,7 @@ items:
   - { name: pipx }
   - { name: procs }
   - { name: pueue }
+  - { name: rdfind }
   - { name: ripgrep }
   - { name: sd }
   - { name: silicon }
