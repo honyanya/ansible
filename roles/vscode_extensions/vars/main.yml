@@ -16,6 +16,7 @@ items:
   - ionutvmi.path-autocomplete
   - JakeBecker.elixir-ls
   - janisdd.vscode-edit-csv
+  - jebbs.plantuml
   - johnpapa.vscode-peacock
   - kamikillerto.vscode-colorize
   - marp-team.marp-vscode
