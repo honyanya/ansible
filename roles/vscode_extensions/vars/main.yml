@@ -2,6 +2,7 @@
 items:
   - aaron-bond.better-comments
   - alefragnani.Bookmarks
+  - bierner.markdown-mermaid
   - christian-kohler.path-intellisense
   - DavidAnson.vscode-markdownlint
   - davidhouchin.whitespace-plus
