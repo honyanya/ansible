@@ -5,6 +5,7 @@ items:
   - { name: ansible }
   - { name: awscli }
   - { name: bat }
+  - { name: brimdata/tap/zed }
   - { name: colima }
   - { name: colordiff }
   - { name: csview }
