@@ -4,6 +4,7 @@ items:
   - alefragnani.Bookmarks
   - bierner.markdown-mermaid
   - bpruitt-goddard.mermaid-markdown-syntax-highlighting
+  - BriteSnow.vscode-toggle-quotes
   - christian-kohler.path-intellisense
   - DavidAnson.vscode-markdownlint
   - davidhouchin.whitespace-plus
