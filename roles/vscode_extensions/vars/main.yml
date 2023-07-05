@@ -41,6 +41,7 @@ items:
   - scala-lang.scala
   - scalameta.metals
   - shardulm94.trailing-spaces
+  - shd101wyy.markdown-preview-enhanced
   - streetsidesoftware.code-spell-checker
   - usernamehw.errorlens
   - vscjava.vscode-java-debug
