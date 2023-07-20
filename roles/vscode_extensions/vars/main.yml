@@ -38,6 +38,7 @@ items:
   - noxiz.jinja-snippets
   - oderwat.indent-rainbow
   - pnp.polacode
+  - rebornix.ruby
   - redhat.java
   - rvest.vs-code-prettier-eslint
   - samuelcolvin.jinjahtml
