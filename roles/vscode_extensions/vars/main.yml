@@ -6,6 +6,7 @@ items:
   - bpruitt-goddard.mermaid-markdown-syntax-highlighting
   - BriteSnow.vscode-toggle-quotes
   - bscan.perlnavigator
+  - castwide.solargraph
   - christian-kohler.path-intellisense
   - DavidAnson.vscode-markdownlint
   - davidhouchin.whitespace-plus
