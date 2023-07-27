@@ -16,6 +16,7 @@ items:
   - esbenp.prettier-vscode
   - fnando.linter
   - formulahendry.code-runner
+  - groksrc.ruby
   - Gruntfuggly.todo-tree
   - IBM.output-colorizer
   - ionutvmi.path-autocomplete
