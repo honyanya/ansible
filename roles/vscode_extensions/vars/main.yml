@@ -28,6 +28,7 @@ items:
   - kamikillerto.vscode-colorize
   - marp-team.marp-vscode
   - mechatroner.rainbow-csv
+  - misogi.ruby-rubocop
   - mosapride.zenkaku
   - ms-azuretools.vscode-docker
   - ms-vscode.vscode-typescript-next
