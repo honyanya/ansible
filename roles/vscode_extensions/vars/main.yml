@@ -17,6 +17,7 @@ items:
   - fnando.linter
   - formulahendry.code-runner
   - groksrc.ruby
+  - GitLab.gitlab-workflow
   - Gruntfuggly.todo-tree
   - HashiCorp.terraform
   - IBM.output-colorizer
