@@ -19,6 +19,7 @@ items:
   - fnando.linter
   - formulahendry.code-runner
   - groksrc.ruby
+  - GitHub.github-vscode-theme
   - GitHub.vscode-github-actions
   - GitLab.gitlab-workflow
   - Gruntfuggly.todo-tree
