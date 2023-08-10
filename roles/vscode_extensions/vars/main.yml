@@ -21,6 +21,7 @@ items:
   - groksrc.ruby
   - GitHub.github-vscode-theme
   - GitHub.vscode-github-actions
+  - GitHub.vscode-pull-request-github
   - GitLab.gitlab-workflow
   - Gruntfuggly.todo-tree
   - HashiCorp.terraform
