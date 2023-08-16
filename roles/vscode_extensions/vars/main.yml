@@ -70,6 +70,7 @@ items:
   - vscjava.vscode-maven
   - vscode-icons-team.vscode-icons
   - vsls-contrib.codetour
+  - Vue.volar
   - wayou.vscode-todo-highlight
   - wingrunr21.vscode-ruby
   - yzane.markdown-pdf
