@@ -71,6 +71,7 @@ items:
   - vscode-icons-team.vscode-icons
   - vsls-contrib.codetour
   - Vue.volar
+  - Vue.vscode-typescript-vue-plugin
   - wayou.vscode-todo-highlight
   - wingrunr21.vscode-ruby
   - yzane.markdown-pdf
