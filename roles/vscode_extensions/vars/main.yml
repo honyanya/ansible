@@ -52,6 +52,7 @@ items:
   - pnp.polacode
   - rebornix.ruby
   - redhat.java
+  - redhat.vscode-yaml
   - rvest.vs-code-prettier-eslint
   - samuelcolvin.jinjahtml
   - scala-lang.scala
