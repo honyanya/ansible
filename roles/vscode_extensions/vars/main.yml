@@ -51,6 +51,7 @@ items:
   - oderwat.indent-rainbow
   - pnp.polacode
   - rebornix.ruby
+  - redhat.ansible
   - redhat.java
   - redhat.vscode-yaml
   - redhat.vscode-xml
