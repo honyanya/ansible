@@ -52,6 +52,7 @@ items:
   - pnp.polacode
   - rebornix.ruby
   - redhat.ansible
+  - redhat.fabric8-analytics
   - redhat.java
   - redhat.vscode-yaml
   - redhat.vscode-xml
