@@ -15,6 +15,7 @@ items:
   - davidhouchin.whitespace-plus
   - dariofuzinato.vue-peek
   - dbaeumer.vscode-eslint
+  - denoland.vscode-deno
   - eamodio.gitlens
   - esbenp.prettier-vscode
   - fnando.linter
