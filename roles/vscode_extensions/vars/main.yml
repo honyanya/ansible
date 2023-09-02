@@ -59,6 +59,7 @@ items:
   - redhat.vscode-yaml
   - redhat.vscode-xml
   - rvest.vs-code-prettier-eslint
+  - samosad.tt
   - samuelcolvin.jinjahtml
   - scala-lang.scala
   - scalameta.metals
