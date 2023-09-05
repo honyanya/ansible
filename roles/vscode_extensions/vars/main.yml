@@ -51,6 +51,7 @@ items:
   - nemesv.copy-file-name
   - noxiz.jinja-snippets
   - oderwat.indent-rainbow
+  - pflannery.vscode-versionlen
   - pnp.polacode
   - rebornix.ruby
   - redhat.ansible
