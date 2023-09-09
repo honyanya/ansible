@@ -66,6 +66,7 @@ items:
   - scalameta.metals
   - shardulm94.trailing-spaces
   - shd101wyy.markdown-preview-enhanced
+  - shibayu36.search-in-current-file
   - streetsidesoftware.code-spell-checker
   - the96.vscode-perl
   - tjmtmmnk.perl-auto-use
