@@ -28,6 +28,7 @@ items:
   - GitLab.gitlab-workflow
   - Gruntfuggly.todo-tree
   - HashiCorp.terraform
+  - hediet.vscode-drawio
   - IBM.output-colorizer
   - ionutvmi.path-autocomplete
   - JakeBecker.elixir-ls
