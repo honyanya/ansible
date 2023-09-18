@@ -39,6 +39,7 @@ items:
   - jeff-hykin.better-perl-syntax
   - johnpapa.vscode-peacock
   - kamikillerto.vscode-colorize
+  - kisstkondoros.vscode-codemetrics
   - marp-team.marp-vscode
   - mechatroner.rainbow-csv
   - misogi.ruby-rubocop
