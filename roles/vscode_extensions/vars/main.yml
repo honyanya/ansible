@@ -32,6 +32,7 @@ items:
   - HashiCorp.terraform
   - hediet.vscode-drawio
   - IBM.output-colorizer
+  - ICS.japanese-proofreading
   - ionutvmi.path-autocomplete
   - JakeBecker.elixir-ls
   - janisdd.vscode-edit-csv
