@@ -21,6 +21,7 @@ items:
   - dbaeumer.vscode-eslint
   - denoland.vscode-deno
   - eamodio.gitlens
+  - EditorConfig.EditorConfig
   - esbenp.prettier-vscode
   - fnando.linter
   - formulahendry.code-runner
