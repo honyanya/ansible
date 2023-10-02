@@ -61,6 +61,7 @@ items:
   - nemesv.copy-file-name
   - noxiz.jinja-snippets
   - oderwat.indent-rainbow
+  - oven.bun-vscode
   - pflannery.vscode-versionlens
   - pnp.polacode
   - rebornix.ruby
