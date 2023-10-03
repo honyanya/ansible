@@ -71,6 +71,7 @@ items:
   - redhat.vscode-yaml
   - redhat.vscode-xml
   - rvest.vs-code-prettier-eslint
+  - rust-lang.rust-analyzer
   - samosad.tt
   - samuelcolvin.jinjahtml
   - scala-lang.scala
