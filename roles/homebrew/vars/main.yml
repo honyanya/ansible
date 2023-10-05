@@ -8,6 +8,7 @@ items:
   - { name: brimdata/tap/zed }
   - { name: colima }
   - { name: colordiff }
+  - { name: coreutils }
   - { name: csview }
   - { name: delta }
   - { name: docker }
