@@ -51,6 +51,7 @@ items:
   - { name: tmux }
   - { name: tokei }
   - { name: tree }
+  - { name: unzip }
   - { name: Virtuslab/scala-cli/scala-cli }
   - { name: watch }
   - { name: wget }
