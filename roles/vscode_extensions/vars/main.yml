@@ -31,6 +31,7 @@ items:
   - GitHub.vscode-github-actions
   - GitHub.vscode-pull-request-github
   - GitLab.gitlab-workflow
+  - golang.Go
   - golang.go-nightly
   - Gruntfuggly.todo-tree
   - HashiCorp.terraform
