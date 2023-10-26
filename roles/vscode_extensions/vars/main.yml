@@ -55,6 +55,7 @@ items:
   - mosapride.zenkaku
   - ms-azuretools.vscode-docker
   - ms-playwright.playwright
+  - ms-python.black-formatter
   - ms-python.isort
   - ms-python.python
   - ms-python.vscode-pylance
