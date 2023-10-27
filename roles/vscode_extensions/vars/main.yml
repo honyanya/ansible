@@ -57,6 +57,7 @@ items:
   - ms-playwright.playwright
   - ms-python.black-formatter
   - ms-python.isort
+  - ms-python.pylint
   - ms-python.python
   - ms-python.vscode-pylance
   - ms-vscode.vscode-typescript-next
