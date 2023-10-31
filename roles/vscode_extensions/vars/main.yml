@@ -57,6 +57,7 @@ items:
   - ms-playwright.playwright
   - ms-python.autopep8
   - ms-python.black-formatter
+  - ms-python.flake8
   - ms-python.isort
   - ms-python.pylint
   - ms-python.python
