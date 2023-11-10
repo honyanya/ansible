@@ -36,6 +36,7 @@ items:
   - golang.go-nightly
   - Gruntfuggly.todo-tree
   - HashiCorp.terraform
+  - HashiCorp.HCL
   - hediet.vscode-drawio
   - IBM.output-colorizer
   - ICS.japanese-proofreading
