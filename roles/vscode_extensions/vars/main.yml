@@ -68,6 +68,7 @@ items:
   - ms-python.python
   - ms-python.vscode-pylance
   - ms-vscode.vscode-typescript-next
+  - ms-vscode.wordcount
   - ms-vscode-remote.remote-containers
   - ms-vscode-remote.remote-ssh
   - ms-vscode-remote.remote-ssh-edit
