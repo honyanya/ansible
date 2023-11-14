@@ -24,6 +24,7 @@ items:
   - eamodio.gitlens
   - EditorConfig.EditorConfig
   - esbenp.prettier-vscode
+  - exiasr.hadolint
   - fnando.linter
   - formulahendry.code-runner
   - groksrc.ruby
