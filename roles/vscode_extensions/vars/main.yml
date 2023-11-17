@@ -82,6 +82,7 @@ items:
   - oven.bun-vscode
   - pflannery.vscode-versionlens
   - pnp.polacode
+  - pranaygp.vscode-css-peek
   - rebornix.ruby
   - redhat.ansible
   - redhat.fabric8-analytics
