@@ -14,6 +14,7 @@ items:
   - { name: docker }
   - { name: docker-compose }
   - { name: diff-so-fancy }
+  - { name: diffutils }
   - { name: direnv }
   - { name: dust }
   - { name: elixir }
