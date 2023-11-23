@@ -33,6 +33,7 @@ items:
   - { name: jsonnet }
   - { name: lefthook }
   - { name: lsd }
+  - { name: lv }
   - { name: marp-cli }
   - { name: midnight-commander }
   - { name: mysql-client }
