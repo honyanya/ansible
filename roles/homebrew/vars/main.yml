@@ -1,6 +1,7 @@
 ---
 items:
   - { name: act }
+  - { name: ag }
   - { name: angle-grinder }
   - { name: ansible }
   - { name: awscli }
