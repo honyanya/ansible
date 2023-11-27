@@ -40,6 +40,7 @@ items:
   - { name: mysql-client }
   - { name: nkf }
   - { name: neovim }
+  - { namw: parallel }
   - { name: peco }
   - { name: pipx }
   - { name: procs }
