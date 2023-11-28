@@ -23,6 +23,7 @@ items:
   - { name: ffmpeg }
   - { name: gh }
   - { name: ghq }
+  - { name: gifsicle }
   - { name: git }
   - { name: git-filter-repo }
   - { name: git-secrets }
