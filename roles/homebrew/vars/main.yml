@@ -21,6 +21,7 @@ items:
   - { name: elixir }
   - { name: fd }
   - { name: ffmpeg }
+  - { name: findutils }
   - { name: gh }
   - { name: ghq }
   - { name: gifsicle }
