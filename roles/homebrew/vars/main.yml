@@ -44,6 +44,7 @@ items:
   - { name: neovim }
   - { namw: parallel }
   - { name: peco }
+  - { name: perceptualdiff }
   - { name: pipx }
   - { name: procs }
   - { name: pueue }
