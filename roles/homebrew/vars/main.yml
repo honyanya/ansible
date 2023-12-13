@@ -59,6 +59,7 @@ items:
   - { name: tig }
   - { name: tmux }
   - { name: tokei }
+  - { name: translate-shell }
   - { name: tree }
   - { name: unzip }
   - { name: Virtuslab/scala-cli/scala-cli }
