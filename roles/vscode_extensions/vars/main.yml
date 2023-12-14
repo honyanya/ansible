@@ -82,6 +82,7 @@ items:
   - nemesv.copy-file-name
   - noxiz.jinja-snippets
   - oderwat.indent-rainbow
+  - Oracle.mysql-shell-for-vs-code
   - oven.bun-vscode
   - pflannery.vscode-versionlens
   - pnp.polacode
