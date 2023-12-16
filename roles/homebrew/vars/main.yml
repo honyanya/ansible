@@ -7,6 +7,7 @@ items:
   - { name: awscli }
   - { name: bat }
   - { name: brimdata/tap/zed }
+  - { name: btop }
   - { name: colima }
   - { name: colordiff }
   - { name: coreutils }
