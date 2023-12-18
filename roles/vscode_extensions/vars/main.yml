@@ -21,6 +21,7 @@ items:
   - dariofuzinato.vue-peek
   - dbaeumer.vscode-eslint
   - denoland.vscode-deno
+  - donjayamanne.githistory
   - eamodio.gitlens
   - EditorConfig.EditorConfig
   - esbenp.prettier-vscode
