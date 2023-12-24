@@ -61,6 +61,7 @@ items:
   - { name: tmux }
   - { name: tokei }
   - { name: translate-shell }
+  - { name: trash-cli }
   - { name: tree }
   - { name: unzip }
   - { name: Virtuslab/scala-cli/scala-cli }
