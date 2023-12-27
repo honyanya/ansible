@@ -67,6 +67,7 @@ items:
   - ms-python.debugpy
   - ms-python.flake8
   - ms-python.gather
+  - ms-vscode.hexeditor
   - ms-python.isort
   - ms-python.mypy-type-checker
   - ms-python.pylint
