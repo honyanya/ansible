@@ -121,6 +121,7 @@ items:
   - vsls-contrib.codetour
   - Vue.volar
   - Vue.vscode-typescript-vue-plugin
+  - WallabyJs.quokka-vscode
   - wayou.vscode-todo-highlight
   - wingrunr21.vscode-ruby
   - yzane.markdown-pdf
