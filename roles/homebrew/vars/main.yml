@@ -30,6 +30,7 @@ items:
   - { name: gifsicle }
   - { name: git }
   - { name: git-filter-repo }
+  - { name: git-lfs } 
   - { name: git-secrets }
   - { name: glab }
   - { name: grex }
