@@ -47,6 +47,7 @@ items:
   - { name: mysql-client }
   - { name: nkf }
   - { name: neovim }
+  - { name: nmap }
   - { namw: parallel }
   - { name: peco }
   - { name: perceptualdiff }
