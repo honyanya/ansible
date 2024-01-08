@@ -96,6 +96,7 @@ items:
   - redhat.fabric8-analytics
   - redhat.java
   - redhat.vscode-yaml
+  - ryu1kn.partial-diff
   - redhat.vscode-xml
   - rvest.vs-code-prettier-eslint
   - rust-lang.rust-analyzer
