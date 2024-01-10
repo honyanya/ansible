@@ -11,6 +11,7 @@ items:
   - astro-build.astro-vscode
   - bierner.emojisense
   - bierner.markdown-mermaid
+  - bmewburn.vscode-intelephense-client
   - bpruitt-goddard.mermaid-markdown-syntax-highlighting
   - BriteSnow.vscode-toggle-quotes
   - bscan.perlnavigator
