@@ -86,6 +86,7 @@ items:
   - mxsdev.typescript-explorer
   - nemesv.copy-file-name
   - noxiz.jinja-snippets
+  - Nuxtr.nuxtr-vscode
   - oderwat.indent-rainbow
   - Oracle.mysql-shell-for-vs-code
   - oven.bun-vscode
