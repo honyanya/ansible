@@ -109,6 +109,7 @@ items:
   - shardulm94.trailing-spaces
   - shd101wyy.markdown-preview-enhanced
   - shibayu36.search-in-current-file
+  - sorbet.sorbet-vscode-extension
   - streetsidesoftware.code-spell-checker
   - the96.vscode-perl
   - tjmtmmnk.perl-auto-use
