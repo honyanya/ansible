@@ -12,6 +12,7 @@ items:
   - { name: google-japanese-ime }
   - { name: iterm2 }
   - { name: kindle }
+  - { name: macs-fan-control }
   - { name: mi }
   - { name: microsoft-remote-desktop }
   - { name: ngrok }
