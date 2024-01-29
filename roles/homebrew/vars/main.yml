@@ -43,6 +43,7 @@ items:
   - { name: lsd }
   - { name: lv }
   - { name: marp-cli }
+  - { name: micro }
   - { name: midnight-commander }
   - { name: mysql-client }
   - { name: nkf }
