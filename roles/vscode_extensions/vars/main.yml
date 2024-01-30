@@ -114,6 +114,7 @@ items:
   - SonarSource.sonarlint-vscode
   - sorbet.sorbet-vscode-extension
   - streetsidesoftware.code-spell-checker
+  - stylelint.vscode-stylelint
   - the96.vscode-perl
   - tjmtmmnk.perl-auto-use
   - usernamehw.errorlens
