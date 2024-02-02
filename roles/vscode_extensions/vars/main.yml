@@ -8,6 +8,7 @@ items:
   - AykutSarac.jsoncrack-vscode
   - AmazonWebServices.aws-toolkit-vscode
   - antfu.goto-alias
+  - antfu.slidev
   - Arjun.swagger-viewer
   - astro-build.astro-vscode
   - bierner.emojisense
