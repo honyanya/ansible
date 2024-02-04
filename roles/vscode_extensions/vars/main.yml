@@ -116,7 +116,6 @@ items:
   - sorbet.sorbet-vscode-extension
   - streetsidesoftware.code-spell-checker
   - stylelint.vscode-stylelint
-  - tailscale.vscode-tailscale
   - the96.vscode-perl
   - tjmtmmnk.perl-auto-use
   - usernamehw.errorlens
