@@ -16,6 +16,7 @@ items:
   - { name: mi }
   - { name: microsoft-remote-desktop }
   - { name: ngrok }
+  - { name: spectacle }
   - { name: vagrant }
   - { name: virtualbox }
   - { name: visual-studio-code }
