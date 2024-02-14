@@ -3,7 +3,6 @@ items:
   - { name: android-file-transfer }
   - { name: android-platform-tools }
   - { name: clipy }
-  - { name: finch }
   - { name: firefox }
   - { name: fig }
   - { name: flux }
