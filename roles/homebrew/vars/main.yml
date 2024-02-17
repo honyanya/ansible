@@ -11,6 +11,7 @@ items:
   - { name: colima }
   - { name: colordiff }
   - { name: coreutils }
+  - { name: coursier/formulas/coursier }
   - { name: csview }
   - { name: delta }
   - { name: docker }
