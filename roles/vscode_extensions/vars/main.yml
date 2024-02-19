@@ -15,6 +15,7 @@ items:
   - bierner.markdown-mermaid
   - bmewburn.vscode-intelephense-client
   - bpruitt-goddard.mermaid-markdown-syntax-highlighting
+  - bradlc.vscode-tailwindcss
   - BriteSnow.vscode-toggle-quotes
   - bscan.perlnavigator
   - castwide.solargraph
