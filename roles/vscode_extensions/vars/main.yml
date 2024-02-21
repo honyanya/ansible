@@ -7,6 +7,7 @@ items:
   - alefragnani.Bookmarks
   - AykutSarac.jsoncrack-vscode
   - AmazonWebServices.aws-toolkit-vscode
+  - amodio.restore-editors
   - antfu.goto-alias
   - antfu.slidev
   - Arjun.swagger-viewer
