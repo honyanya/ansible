@@ -31,6 +31,7 @@ items:
   - donjayamanne.githistory
   - eamodio.gitlens
   - EditorConfig.EditorConfig
+  - eliostruyf.vscode-hide-comments
   - esbenp.prettier-vscode
   - exiasr.hadolint
   - fnando.linter
