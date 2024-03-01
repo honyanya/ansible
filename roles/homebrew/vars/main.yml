@@ -38,6 +38,7 @@ items:
   - { name: hadolint }
   - { name: harelba/q/q }
   - { name: htop }
+  - { name: hyperfine }
   - { name: jq }
   - { name: jsonnet }
   - { name: lefthook }
@@ -55,7 +56,7 @@ items:
   - { name: perceptualdiff }
   - { name: pipx }
   - { name: procs }
-  - { name: pueue }
+  - { name: diskonaut }
   - { name: ranger }
   - { name: rdfind }
   - { name: ripgrep }
