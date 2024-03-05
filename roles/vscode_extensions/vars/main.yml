@@ -60,6 +60,7 @@ items:
   - jrebocho.vscode-random
   - kamikillerto.vscode-colorize
   - kisstkondoros.vscode-codemetrics
+  - kisstkondoros.vscode-gutter-preview
   - KevinRose.vsc-python-indent
   - marp-team.marp-vscode
   - mechatroner.rainbow-csv
