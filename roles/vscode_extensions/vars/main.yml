@@ -112,6 +112,7 @@ items:
   - ryu1kn.partial-diff
   - redhat.vscode-xml
   - rvest.vs-code-prettier-eslint
+  - Rubymaniac.vscode-paste-and-indent
   - rust-lang.rust-analyzer
   - samosad.tt
   - samuelcolvin.jinjahtml
