@@ -44,6 +44,7 @@ items:
   - GitLab.gitlab-workflow
   - golang.Go
   - golang.go-nightly
+  - Grafana.vscode-jsonnet
   - GraphQL.vscode-graphql
   - Gruntfuggly.todo-tree
   - HashiCorp.terraform
