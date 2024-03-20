@@ -12,6 +12,7 @@ items:
   - amodio.restore-editors
   - antfu.goto-alias
   - antfu.slidev
+  - antfu.vite
   - Arjun.swagger-viewer
   - astro-build.astro-vscode
   - bierner.emojisense
