@@ -27,6 +27,7 @@ items:
   - { name: ffmpeg }
   - { name: findutils }
   - { name: freeimage }
+  - { name: fzf }
   - { name: gh }
   - { name: ghq }
   - { name: gifsicle }
