@@ -1,87 +1,87 @@
 # cSpell:disable
 ---
 items:
-  - { name: act }
-  - { name: ag }
-  - { name: angle-grinder }
-  - { name: ansible }
-  - { name: awscli }
-  - { name: bat }
-  - { name: brimdata/tap/zed }
-  - { name: btop }
-  - { name: colima }
-  - { name: colordiff }
-  - { name: coreutils }
-  - { name: coursier/formulas/coursier }
-  - { name: csview }
-  - { name: delta }
-  - { name: docker }
-  - { name: docker-compose }
-  - { name: diff-so-fancy }
-  - { name: diffutils }
-  - { name: direnv }
-  - { name: dive }
-  - { name: dust }
-  - { name: elixir }
-  - { name: fd }
-  - { name: ffmpeg }
-  - { name: findutils }
-  - { name: freeimage }
-  - { name: fzf }
-  - { name: gh }
-  - { name: ghq }
-  - { name: gifsicle }
-  - { name: git }
-  - { name: git-filter-repo }
-  - { name: git-lfs }
-  - { name: git-secrets }
-  - { name: glab }
-  - { name: grex }
-  - { name: hadolint }
-  - { name: harelba/q/q }
-  - { name: htop }
-  - { name: hyperfine }
-  - { name: jq }
-  - { name: jsonnet }
-  - { name: lefthook }
-  - { name: lsd }
-  - { name: lv }
-  - { name: marp-cli }
-  - { name: micro }
-  - { name: midnight-commander }
-  - { name: mysql-client }
-  - { name: nkf }
-  - { name: neovim }
-  - { name: nmap }
-  - { namw: parallel }
-  - { name: peco }
-  - { name: perceptualdiff }
-  - { name: pipx }
-  - { name: procs }
-  - { name: diskonaut }
-  - { name: ranger }
-  - { name: rdfind }
-  - { name: ripgrep }
-  - { name: sd }
-  - { name: silicon }
-  - { name: sdkman/tap/sdkman-cli }
-  - { name: tfenv }
-  - { name: tig }
-  - { name: tmux }
-  - { name: tokei }
-  - { name: translate-shell }
-  - { name: trash-cli }
-  - { name: tree }
-  - { name: unzip }
-  - { name: Virtuslab/scala-cli/scala-cli }
-  - { name: watch }
-  - { name: wget }
-  - { name: xh }
-  - { name: xsv }
-  - { name: xz }
-  - { name: yq }
-  - { name: yz }
-  - { name: zoxide }
-  - { name: zsh-autosuggestions }
-  - { name: zsh-completion }
-  - { name: zstd }
+  - {name: act}
+  - {name: ag}
+  - {name: angle-grinder}
+  - {name: ansible}
+  - {name: awscli}
+  - {name: bat}
+  - {name: brimdata/tap/zed}
+  - {name: btop}
+  - {name: colima}
+  - {name: colordiff}
+  - {name: coreutils}
+  - {name: coursier/formulas/coursier}
+  - {name: csview}
+  - {name: delta}
+  - {name: docker}
+  - {name: docker-compose}
+  - {name: diff-so-fancy}
+  - {name: diffutils}
+  - {name: direnv}
+  - {name: dive}
+  - {name: dust}
+  - {name: elixir}
+  - {name: fd}
+  - {name: ffmpeg}
+  - {name: findutils}
+  - {name: freeimage}
+  - {name: fzf}
+  - {name: gh}
+  - {name: ghq}
+  - {name: gifsicle}
+  - {name: git}
+  - {name: git-filter-repo}
+  - {name: git-lfs}
+  - {name: git-secrets}
+  - {name: glab}
+  - {name: grex}
+  - {name: hadolint}
+  - {name: harelba/q/q}
+  - {name: htop}
+  - {name: hyperfine}
+  - {name: jq}
+  - {name: jsonnet}
+  - {name: lefthook}
+  - {name: lsd}
+  - {name: lv}
+  - {name: marp-cli}
+  - {name: micro}
+  - {name: midnight-commander}
+  - {name: mysql-client}
+  - {name: nkf}
+  - {name: neovim}
+  - {name: nmap}
+  - {namw: parallel}
+  - {name: peco}
+  - {name: perceptualdiff}
+  - {name: pipx}
+  - {name: procs}
+  - {name: diskonaut}
+  - {name: ranger}
+  - {name: rdfind}
+  - {name: ripgrep}
+  - {name: sd}
+  - {name: silicon}
+  - {name: sdkman/tap/sdkman-cli}
+  - {name: tfenv}
+  - {name: tig}
+  - {name: tmux}
+  - {name: tokei}
+  - {name: translate-shell}
+  - {name: trash-cli}
+  - {name: tree}
+  - {name: unzip}
+  - {name: Virtuslab/scala-cli/scala-cli}
+  - {name: watch}
+  - {name: wget}
+  - {name: xh}
+  - {name: xsv}
+  - {name: xz}
+  - {name: yq}
+  - {name: yz}
+  - {name: zoxide}
+  - {name: zsh-autosuggestions}
+  - {name: zsh-completion}
+  - {name: zstd}

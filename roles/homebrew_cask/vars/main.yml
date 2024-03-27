@@ -1,24 +1,24 @@
 # cSpell:disable
 ---
 items:
-  - { name: android-file-transfer }
-  - { name: android-platform-tools }
-  - { name: clipy }
-  - { name: firefox }
-  - { name: fig }
-  - { name: flux }
-  - { name: font-hack-nerd-font }
-  - { name: google-chrome }
-  - { name: google-cloud-sdk }
-  - { name: google-japanese-ime }
-  - { name: iterm2 }
-  - { name: kindle }
-  - { name: macs-fan-control }
-  - { name: mi }
-  - { name: microsoft-remote-desktop }
-  - { name: ngrok }
-  - { name: shottr }
-  - { name: spectacle }
-  - { name: vagrant }
-  - { name: virtualbox }
-  - { name: visual-studio-code }
+  - {name: android-file-transfer}
+  - {name: android-platform-tools}
+  - {name: clipy}
+  - {name: firefox}
+  - {name: fig}
+  - {name: flux}
+  - {name: font-hack-nerd-font}
+  - {name: google-chrome}
+  - {name: google-cloud-sdk}
+  - {name: google-japanese-ime}
+  - {name: iterm2}
+  - {name: kindle}
+  - {name: macs-fan-control}
+  - {name: mi}
+  - {name: microsoft-remote-desktop}
+  - {name: ngrok}
+  - {name: shottr}
+  - {name: spectacle}
+  - {name: vagrant}
+  - {name: virtualbox}
+  - {name: visual-studio-code}
