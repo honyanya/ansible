@@ -43,6 +43,7 @@ items:
   - {name: hyperfine}
   - {name: jq}
   - {name: jsonnet}
+  - {name: jtbl}
   - {name: lefthook}
   - {name: lsd}
   - {name: lv}
