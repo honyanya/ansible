@@ -80,6 +80,7 @@ items:
   - {name: xh}
   - {name: xsv}
   - {name: xz}
+  - {name: ynqa/tap/jnv}
   - {name: yq}
   - {name: yz}
   - {name: zoxide}
