@@ -8,6 +8,7 @@ items:
   - {name: fig}
   - {name: flux}
   - {name: font-hack-nerd-font}
+  - {name: gimp}
   - {name: google-chrome}
   - {name: google-cloud-sdk}
   - {name: google-japanese-ime}
