@@ -111,6 +111,7 @@ items:
   - pmneo.tsimporter
   - pnp.polacode
   - pranaygp.vscode-css-peek
+  - premparihar.gotestexplorer
   - quicktype.quicktype
   - rebornix.ruby
   - redhat.ansible
