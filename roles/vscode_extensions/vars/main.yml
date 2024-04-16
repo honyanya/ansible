@@ -39,6 +39,7 @@ items:
   - exiasr.hadolint
   - fnando.linter
   - formulahendry.code-runner
+  - foxundermoon.shell-format
   - groksrc.ruby
   - GitHub.github-vscode-theme
   - GitHub.remotehub
