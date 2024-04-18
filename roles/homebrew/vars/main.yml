@@ -32,6 +32,7 @@ items:
   - {name: ghq}
   - {name: gifsicle}
   - {name: git}
+  - {name: git-duet/tap/git-duet}
   - {name: git-filter-repo}
   - {name: git-lfs}
   - {name: git-secrets}
