@@ -93,6 +93,7 @@ items:
   - ms-python.vscode-pylance
   - ms-vscode.js-debug-nightly
   - ms-vscode.live-server
+  - ms-vscode.makefile-tools
   - ms-vscode.vscode-typescript-next
   - ms-vscode.wordcount
   - ms-vscode-remote.remote-containers
