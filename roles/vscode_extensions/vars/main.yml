@@ -91,6 +91,7 @@ items:
   - ms-python.pylint
   - ms-python.python
   - ms-python.vscode-pylance
+  - ms-vscode.cmake-tools
   - ms-vscode.js-debug-nightly
   - ms-vscode.live-server
   - ms-vscode.makefile-tools
