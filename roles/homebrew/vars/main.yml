@@ -88,4 +88,5 @@ items:
   - {name: zoxide}
   - {name: zsh-autosuggestions}
   - {name: zsh-completion}
+  - {name: zsh-syntax-highlighting}
   - {name: zstd}
