@@ -40,6 +40,7 @@ items:
   - formulahendry.code-runner
   - foxundermoon.shell-format
   - groksrc.ruby
+  - GitHub.copilot
   - GitHub.github-vscode-theme
   - GitHub.remotehub
   - GitHub.vscode-github-actions
